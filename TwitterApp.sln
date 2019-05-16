@@ -22,10 +22,10 @@ Global
 		{EC0553F8-5C90-4C25-9872-F870AA070AD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EC0553F8-5C90-4C25-9872-F870AA070AD6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
-	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
+	GlobalSection(SolutionProperties) = postsolution
+		HideSolutionNode = TRUE
 	EndGlobalSection
-	GlobalSection(ExtensibilityGlobals) = postSolution
+	GlobalSection(ExtensibilityGlobals) = presolution
 		SolutionGuid = {E10E90C7-F291-413F-B5B9-BDC2996118D0}
 	EndGlobalSection
 EndGlobal
